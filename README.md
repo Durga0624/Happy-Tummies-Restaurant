@@ -24,3 +24,8 @@ It contains basic sections like **About Us**, **Menu**, and **Contact Us**, alon
 - **Address:** 123 Food Street, Flavor Town  
 - **Phone:** +91 9876543210  
 - **Email:** happytummies@gmail.com  
+
+## ✅ Conclusion
+The **Happy Tummies Restaurant Website** is a beginner-friendly HTML project designed to showcase a restaurant’s basic online presence.  
+It demonstrates the use of HTML structure, images, and links to build a simple yet visually engaging web page.  
+This project can be extended further by adding CSS styling, JavaScript interactivity, or even backend integration to make it more dynamic and user-friendly.
