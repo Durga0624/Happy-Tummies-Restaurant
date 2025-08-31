@@ -26,6 +26,6 @@ It contains basic sections like **About Us**, **Menu**, and **Contact Us**, alon
 - **Email:** happytummies@gmail.com  
 
 ## ✅ Conclusion
-The **Happy Tummies Restaurant Website** is a beginner-friendly HTML project designed to showcase a restaurant’s basic online presence.  
-It demonstrates the use of HTML structure, images, and links to build a simple yet visually engaging web page.  
-This project can be extended further by adding CSS styling, JavaScript interactivity, or even backend integration to make it more dynamic and user-friendly.
+The **Happy Tummies Restaurant Website** is a beginner-friendly HTML project that highlights how a simple restaurant homepage can be built.  
+It demonstrates the use of basic HTML elements like headings, tables, images, and links to create a structured and functional webpage.  
+This project is ideal for practicing foundational web development skills and presenting a clear, easy-to-navigate restaurant layout.
